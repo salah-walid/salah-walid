@@ -6,7 +6,7 @@
 <a href="https://github.com/salah-walid">
   <img align="left" alt="Walid's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://twitter.com/CipliOnat">
+<a href="https://www.facebook.com/mohamedwalid.salah">
   <img align="left" alt="Walid's facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
