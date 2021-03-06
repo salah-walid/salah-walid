@@ -1,11 +1,5 @@
 ## Hello there, Welcome to My GitHub 👋
 
-<br/>
--Here is [My Portofolio](https://salah-walid.github.io/)
-
-<br/>
-<br/>
-
 <a href="https://www.linkedin.com/in/salah-mohamed-oualid-20ab28161/">
   <img align="left" alt="Walid's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -20,6 +14,7 @@
 <br/>
 
 - 🔭 I’m currently working with IT-BRAIN as a full Stack Developer.
+- Here is [My Portofolio](https://salah-walid.github.io/)
 
 [![GitHub walid](https://img.shields.io/github/followers/salah-walid?label=follow&style=social)](https://github.com/salah-walid)
 
