@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working with IT-BRAIN as a full Stack Developer.
+- 🔭 I’m currently working with EVERCAM as a software developer.
 - Here is [My Portofolio](https://salah-walid.github.io/)
 
 [![GitHub walid](https://img.shields.io/github/followers/salah-walid?label=follow&style=social)](https://github.com/salah-walid)
